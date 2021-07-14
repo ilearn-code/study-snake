@@ -1,3 +1,81 @@
+
+/* Style buttons */
+.btn {
+ background-color: DodgerBlue;
+ border: none;
+ color: white;
+ padding: 12px 30px;
+ cursor: pointer;
+ font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+ background-color: RoyalBlue;
+}
+/* end download link */
+
+
+
+
+
+
+
+
+
+
+p {
+	margin: -550px 800px 11px;
+}
+/* oops image book */
+
+
+
+
+
+/* c1 */
+
+h2{
+	color: #ffffff;
+	text-align: left;
+	padding: 150px;
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+
+h5{
+	color: #ffffff;
+	text-align: left ;
+	margin-top: -137px;
+	margin-bottom: 2px;
+	margin-left: 161px;
+
+
+}
+
+
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body
+{
+   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the content */
+.c1 {
+  background-color:#282A35;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+
+}
+
+
+/* c1 end */
+
 .carousel-indicators li {
 	border: 1px solid #131313;
 }
