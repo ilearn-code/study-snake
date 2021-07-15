@@ -1,4 +1,15 @@
 
+
+button, input, optgroup, select, textarea {
+    margin: -401px 238px 237px;
+  }
+
+
+
+
+
+
+
 /* Style buttons */
 .btn {
  background-color: DodgerBlue;
@@ -41,6 +52,7 @@ h2{
 	padding: 150px;
 	margin-top: 1px;
 	margin-bottom: 0px;
+  margin-left: 44px;
 }
 
 h5{
@@ -48,7 +60,7 @@ h5{
 	text-align: left ;
 	margin-top: -137px;
 	margin-bottom: 2px;
-	margin-left: 161px;
+	margin-left: 204px;
 
 
 }
