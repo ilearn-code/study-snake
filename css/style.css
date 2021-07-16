@@ -47,6 +47,8 @@ p {
 /* c1 */
 
 h2{
+  font-size:100px;
+  font-weight:700;
 	color: #ffffff;
 	text-align: left;
 	padding: 150px;
@@ -56,6 +58,8 @@ h2{
 }
 
 h5{
+  font-size:30px;
+  font-weight:10;
 	color: #ffffff;
 	text-align: left ;
 	margin-top: -137px;
@@ -166,4 +170,20 @@ body
 @media screen and (max-width:768px) {
 	.carousel-indicators {
 	    bottom:-40px;
-	}}
+	}
+h2
+{margin-left: -94px;
+  margin-top: -118px;
+  padding-top: 154px;
+  padding-bottom: 104px;  }
+  h5{
+    margin-left: 84px;
+    margin-right: 57px;
+    margin-top: -106px;
+  }
+  .btn{
+    margin-left: 94px;
+margin-bottom: -70px;
+margin-top: -622px;
+  }
+}
